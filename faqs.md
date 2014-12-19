@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "问答：Faqs"
+title: "Nice Blog"
 ---
 
 ####那些年儿我们读过的博客
