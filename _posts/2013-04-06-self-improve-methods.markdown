@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "reading"
+category: "life"
 title:  "提升自我的方法"
 tags: [阅读]
 summary: "提升自我的14个方法"
