@@ -17,7 +17,7 @@ permalink: /2014-07-30-正在等待googleapiscom的响应.html
     
     
    3、自动将Google前端公共库的JS资源缓存在360网站卫士全国的CDN节点上。Have fun !   <br/>
-更多信息详见360常用前端公共库CDN服务平台   <br/>  
+更多信息详见360常用前端公共库CDN服务平台
  http://libs.useso.com/   <br/>
 当然，你也可以选择国内其它CDN服务：   <br/>
 http://lib.sinaapp.com/   <br/>
