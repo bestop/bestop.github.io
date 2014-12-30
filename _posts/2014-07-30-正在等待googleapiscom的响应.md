@@ -16,8 +16,10 @@ permalink: /2014-07-30-正在等待googleapiscom的响应.html
   `` <script type='text/javascript' src='http://ajax.useso.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.4.2'></script> ``
     
     
-   3、自动将Google前端公共库的JS资源缓存在360网站卫士全国的CDN节点上。Have fun !   <br/>
-更多信息详见360常用前端公共库CDN服务平台
+   3、自动将Google前端公共库的JS资源缓存在360网站卫士全国的CDN节点上。Have fun !
+   
+   
+更多信息详见360常用前端公共库CDN服务平台   <br/>
  http://libs.useso.com/   <br/>
 当然，你也可以选择国内其它CDN服务：   <br/>
 http://lib.sinaapp.com/   <br/>
