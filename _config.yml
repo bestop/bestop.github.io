@@ -6,13 +6,13 @@ pygments: true
 safe: true
 auto: false 
 
-paginate: 4
+paginate: 5
 paginate_path: "page:num"
 
 # presonal config
 title: NetCafe
-description: Joe's Blog, powered by Jekyll...
-feed: http://a.pop925.net/atom.xml
+description: Joe's Blog...
+feed: http://blog.pop925.net/atom.xml
 
 author: Steven Pan
 
