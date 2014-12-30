@@ -9,11 +9,11 @@ permalink: /2014-07-30-正在等待googleapiscom的响应.html
 解决方案，替换相应代码为国内的CDN公共库，即可让网站访问速度提升。   <br/>
 这里360提供了一个较为简便的修改方法，只需替换一个域名就可以继续使用Google提供的前端公共库或字体库。   <br/>
 1、首先在程序源代码中找到调用Google前端公共库的地址，比如：   <br/>
-  '<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.4.2'></script>'
+  `<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.4.2'></script>`
     
     
 2、将Google前端库的域名 ajax.googleapis.com 修改为：ajax.useso.com 即可，如下所示：   <br/>
-  '<script type='text/javascript' src='http://ajax.useso.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.4.2'></script>'
+  `<script type='text/javascript' src='http://ajax.useso.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.4.2'></script>`
     
     
    3、自动将Google前端公共库的JS资源缓存在360网站卫士全国的CDN节点上。Have fun !   <br/>
