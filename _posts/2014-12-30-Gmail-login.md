@@ -4,7 +4,7 @@ category: "信息||Info"
 title:  "Gmail邮箱登录不了怎么办?"
 tags: [信息||Info]
 ---
-<img src="http://www.chinaemail.com.cn/photo/common/content/2043/original/" height=400px>
+<img src="http://www.chinaemail.com.cn/photo/common/content/2043/original/" height=360px>
 
 Gmail无法打开是很久以来的事情了，这次端口被封，Gmail又一次成为关注焦点。
 作为一个Gmail重度使用患者，一时之间还无法找到合适的替代品。
