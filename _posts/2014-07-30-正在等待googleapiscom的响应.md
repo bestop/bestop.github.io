@@ -20,10 +20,10 @@ permalink: /2014-07-30-正在等待googleapiscom的响应.md
    
    
 更多信息详见360常用前端公共库CDN服务平台   <br/>
- http://libs.useso.com/   <br/>
+ [http://libs.useso.com/](http://libs.useso.com/)   <br/>
 当然，你也可以选择国内其它CDN服务：   <br/>
-http://lib.sinaapp.com/   <br/>
-http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs/   <br/>
-http://www.staticfile.org/   <br/>
-http://jscdn.upai.com/   <br/>
+[http://lib.sinaapp.com/](http://lib.sinaapp.com/)   <br/>
+[http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs/](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs/)   <br/>
+[http://www.staticfile.org/](http://www.staticfile.org/)   <br/>
+[http://jscdn.upai.com/](http://jscdn.upai.com/)   <br/>
     赶快试试，让你的网站访问瞬间提速吧！ 
