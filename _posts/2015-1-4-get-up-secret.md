@@ -5,8 +5,6 @@ title:  "早起的秘诀"
 tags: [生活||Life]
 summary: "早起的秘诀，不是各种闹钟，而是生物钟。"
 ---
-<img src="http://ww2.sinaimg.cn/large/4df62ff3gw1enxgrqzi4nj20bt0btmyu.jpg" width=360px>
-
 有一句NB的话是这么说的，每天早晨,叫醒你的不是闹钟,而是梦想!对于我来说，目前这是很难做到的，所以我还是要定一个闹钟的。
 
 
@@ -16,6 +14,7 @@ summary: "早起的秘诀，不是各种闹钟，而是生物钟。"
 
 问题解决了，这里应该是一个happy ending，但是你有没有想过，也许我们能有更好的方法。今天早上最后一刻突然惊醒使我想到，早起的秘诀，不是各种闹钟，而是生物钟。养成好的习惯，早睡早起，习惯成自然之后，你就掌握了早起的秘诀。
 
+<img src="http://ww2.sinaimg.cn/large/4df62ff3gw1enxgrqzi4nj20bt0btmyu.jpg" width=360px>  
 
 早起养成诀窍：  
 1、合理的入睡时间（例如晚十点），保证睡眠时间与质量；   
