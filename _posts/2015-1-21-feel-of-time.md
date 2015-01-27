@@ -11,6 +11,7 @@ tags: [生活||Life]
 同时看了电视和电影两个版本，颠覆了以往我认为电影比电视更加耐看的观点。相比较而言，电视版的从选角到剧情，都更加真实和真诚，而电影版最大的亮点可能是王菲演唱的同名主题曲-匆匆那年。   
 <img src="http://ww2.sinaimg.cn/large/4df62ff3gw1eoh7z6amzuj20pl06fwfv.jpg" width=480px>  
 
-世界上有两种悲剧，一种是得不到,就像乔燃和方茴；另一种是得到了，亦如陈寻和方茴。      不悔梦归处，只恨太匆匆。  
+世界上有两种悲剧，一种是得不到,就像乔燃和方茴；另一种是得到了，亦如陈寻和方茴。  
+不悔梦归处，只恨太匆匆。  
 
 <embed src="http://www.xiami.com/widget/0_1773679434/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
