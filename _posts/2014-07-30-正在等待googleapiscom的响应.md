@@ -16,7 +16,7 @@ permalink: /2014-07-30-正在等待googleapiscom的响应.md
   `` <script type='text/javascript' src='http://ajax.useso.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.4.2'></script> ``
     
     
-   3、自动将Google前端公共库的JS资源缓存在360网站卫士全国的CDN节点上。Have fun !
+3、自动将Google前端公共库的JS资源缓存在360网站卫士全国的CDN节点上。Have fun !
    
    
 更多信息详见360常用前端公共库CDN服务平台   <br/>
@@ -26,4 +26,5 @@ permalink: /2014-07-30-正在等待googleapiscom的响应.md
 [http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs/](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs/)   <br/>
 [http://www.staticfile.org/](http://www.staticfile.org/)   <br/>
 [http://jscdn.upai.com/](http://jscdn.upai.com/)   <br/>
-    赶快试试，让你的网站访问瞬间提速吧！ 
+赶快试试，让你的网站访问瞬间提速吧！    
+P.S: www.google.com/jsapi = ajax.useso.com/jsapi
