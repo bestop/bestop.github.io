@@ -9,4 +9,4 @@ summary: "Happy Together"
 美剧一般边拍边放，总是要和收视率划上关系，短的如妙警贼探，编不下去就早点结束，留下美好印象，要不然就要像大器晚成，壮志未酬身先死，半路整剧被砍；或者像迷失，胃口吊得太久显得太过拖拉，让人没法看完。    
 <img alt="" border="0" src="http://ww3.sinaimg.cn/mw690/4df62ff3gw1er0ajx72dij20fa08mjse.jpg" width=420px>     
 
-剧终而无遗憾，就像最后一集里面罗丝哼唱的那首歌一样，我们曾经Happy Together。很喜欢这首欢快的歌曲，出自The Turtles（海龟合唱团）1967年的专辑《[Happy Together](http://v.yinyuetai.com/video/581451)》。这首歌不但是《春光乍泄》和《辛普森一家》的插曲，也是奔驰SMART汽车广告歌曲以及嘉士伯和喜力啤酒的广告歌曲。 顺便推荐一首个人比较欣赏的芝华士广告歌曲《[Mermaid Song](http://v.youku.com/v_show/id_XODU2MzA1MDg)》，歌曲让人惊艳，如同美酒般沁人心脾； 源自自比利时的梦幻流行乐队Hooverphonic的单曲《[When you know](http://v.yinyuetai.com/video/322007)》。   
+剧终而无遗憾，就像最后一集里面罗丝哼唱的那首歌一样，我们曾经Happy Together。很喜欢这首欢快的歌曲，出自The Turtles（海龟合唱团）1967年的专辑《[Happy Together](http://v.yinyuetai.com/video/581451)》。这首歌不但是《春光乍泄》和《辛普森一家》的插曲，也是奔驰SMART汽车广告歌曲以及嘉士伯和喜力啤酒的广告歌曲。     顺便推荐一首个人比较欣赏的芝华士广告歌曲《[Mermaid Song](http://v.youku.com/v_show/id_XODU2MzA1MDg)》，歌曲让人惊艳，如同美酒般沁人心脾； 源自自比利时的梦幻流行乐队Hooverphonic的单曲《[When you know](http://v.yinyuetai.com/video/322007)》。   
