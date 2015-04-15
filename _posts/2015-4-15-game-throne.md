@@ -138,5 +138,3 @@ summary: "《权力的游戏》版图及九大家族"
 <div open="" sans',="" sans-serif;color:rgb(51,="" 51,="" 51);'="" style="font-family: 微软雅黑, 'Microsoft Yahei', 'Helvetica Neue', 'Hiragino Sans GB', 宋体, simsun, 黑体, Arial, sans-serif; white-space: normal; font-size: 13px;"><p open="" sans',="" sans-serif;color:rgb(51,="" 51,="" 51);'="" style="margin-top: 0px;">原文地址：<a href="http://www.izhangheng.com/detailed-analysis-game-of-thrones-world-map-and-the-nine-houses/">http://www.izhangheng.com/detailed-analysis-game-of-thrones-world-map-and-the-nine-houses/</a><span style="font-family:'Open Sans', sans-serif;font-size:15px;line-height:1.5;"></span>
 								</p>
 									</div>
-										</p>
-										
