@@ -24,8 +24,6 @@ summary: "美剧里的匆匆那年 "
 	<p style="font-family:Arial, SimSun;font-size:14px;text-indent:30px;background-color:#FFFFFF;">
 		请相信我，这些美剧里的瞬间之所以能打动你我，一定是因为，我们在他们身上看见了爱的遗憾和曾经。
 	</p>
-
-	
 	<p style="font-family:Arial, SimSun;font-size:14px;text-indent:30px;background-color:#FFFFFF;">
 		<strong>《吸血鬼日记》（The Vampire Diaries）</strong>
 	</p>
@@ -38,6 +36,7 @@ summary: "美剧里的匆匆那年 "
 	<p style="font-family:Arial, SimSun;font-size:14px;text-indent:30px;background-color:#FFFFFF;">
 		我们经历过起伏跌宕，我们努力过。我们都变了，我们成长，我们分开，但这一切都是真实的。这就是生活。
 	</p>
+
 	<p style="font-family:Arial, SimSun;font-size:14px;text-indent:30px;background-color:#FFFFFF;">
 		<p style="font-family:Arial, SimSun;font-size:14px;text-indent:30px;background-color:#FFFFFF;">
 			<strong>《唐顿庄园》（Downton Abbey）</strong>
