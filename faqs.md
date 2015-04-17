@@ -21,10 +21,5 @@ GTD Life: <http://www.gtdlife.com>
 
 <!-- Blog Comments -->
 <div class="media">
-  <!-- UY BEGIN -->
-  <div id="uyan_frame">
-  </div>
-  <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1995326">
-  </script>
-  <!-- UY END -->
+  {% include comment.html %} 
 </div>
