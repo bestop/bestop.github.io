@@ -10,6 +10,6 @@ RescueTime是一款时间记录工具，经过简单的设置之后，它可以�
 
 [https://www.rescuetime.com/](https://www.rescuetime.com/)     
 
-使用RescueTime,首先要进行注册，免费版即可，根据需要下载电脑和手机客户端软件，甚至[Chrome扩展插件](https://chrome.google.com/webstore/detail/rescuetime-for-chrome-chr/bdakmnplckeopfghnlpocafcepegjeap)，具体的过程亲自体验一下吧。
+使用RescueTime,首先要进行注册，免费版即可，根据需要下载电脑和手机客户端软件，甚至[Chrome扩展插件](https://chrome.google.com/webstore/detail/rescuetime-for-chrome-chr/bdakmnplckeopfghnlpocafcepegjeap)，具体的过程亲自体验一下吧。    
 <img src="http://ww2.sinaimg.cn/mw690/4df62ff3gw1ermbyglewej20dw0mjta9.jpg" width=480px>       
  
