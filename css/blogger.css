@@ -302,7 +302,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	text-rendering: optimizeLegibility;
 	color: #444;
-	background:url(http://cdn.zojon.com/tt/bg/bg14.gif) repeat #efefef;
+	background-color: #fff9c0;
 }
 body.custom-font-enabled {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
