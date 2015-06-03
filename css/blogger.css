@@ -302,7 +302,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	text-rendering: optimizeLegibility;
 	color: #444;
-	background-color: Silver;
+	background-color: #DCDCDC;
 }
 body.custom-font-enabled {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
