@@ -6,8 +6,7 @@ tags: [电影||Movie]
 summary: "《权力的游戏》版图及九大家族"
 ---
 <p style="color:#333333;font-family:'Open Sans', sans-serif;font-size:15px;background-color:#FFFFFF;">
-	<p open="" sans',="" sans-serif;color:rgb(51,="" 51,="" 51);'="" style="margin-top: 0px; font-family: 微软雅黑, 'Microsoft Yahei', 'Helvetica Neue', 'Hiragino Sans GB', 宋体, simsun, 黑体, Arial, sans-serif; font-size: 15px; line-height: 22.5px; white-space: normal;">《权力的游戏》是2011年由美国HBO电视台推出的一部中世纪史诗奇幻题材的电视连续剧，目前已开播第三季，拥有大批的忠实粉丝。该剧以美国作家乔治·R·R·马丁的奇幻巨作《冰与火之歌》七部曲为基础改编创作，并于2002年开始发行卡牌游戏、2003年开始发行桌游、2011年开始出版改编漫画、2012年Cyanide开发同名电子游戏，是当代奇幻文学一部影响深远的里程碑式的作品。剧中虚构出的中世纪大陆和九大家族的争权夺利，非常有看点，剧情的发展也让人无法预料，先了解众多的人物和复杂的关系对于看这部美剧很有帮助，今天和广大粉丝们一起详细了解下这块奇幻大陆和九大家族。     
-	
+	<p open="" sans',="" sans-serif;color:rgb(51,="" 51,="" 51);'="" style="margin-top: 0px; font-family: 微软雅黑, 'Microsoft Yahei', 'Helvetica Neue', 'Hiragino Sans GB', 宋体, simsun, 黑体, Arial, sans-serif; font-size: 15px; line-height: 22.5px; white-space: normal;">《权力的游戏》是2011年由美国HBO电视台推出的一部中世纪史诗奇幻题材的电视连续剧，目前已开播第三季，拥有大批的忠实粉丝。该剧以美国作家乔治·R·R·马丁的奇幻巨作《冰与火之歌》七部曲为基础改编创作，并于2002年开始发行卡牌游戏、2003年开始发行桌游、2011年开始出版改编漫画、2012年Cyanide开发同名电子游戏，是当代奇幻文学一部影响深远的里程碑式的作品。剧中虚构出的中世纪大陆和九大家族的争权夺利，非常有看点，剧情的发展也让人无法预料，先了解众多的人物和复杂的关系对于看这部美剧很有帮助，今天和广大粉丝们一起详细了解下这块奇幻大陆和九大家族。             
 <img src="http://ww2.sinaimg.cn/mw690/4df62ff3gw1etwi2a4rm3j20hs0afq3s.jpg"/ width=420px>
 </p>
 
