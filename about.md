@@ -7,7 +7,8 @@ Happiness is not about being immortal nor having food or rights in one's hand. I
 
 
 ####Links
-Blog    <http://blog.pop925.net>  
+Blog    <http://blog.pop925.net> 
+
 
 ####吾日三省吾身
 （1）付出不亚于任何人的努力
