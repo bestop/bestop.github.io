@@ -10,7 +10,7 @@ tags: [生活||Life]
 
  
 
-<embed src="http://www.xiami.com/widget/0_1773679434/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
+<embed src="http://img.app.meitudata.com/meitumv/mtplayer4/swf/mp4Player.swf?data=%7B%22id%22%3A87240501%2C%22source%22%3A%22embed%22%7D&vcastr_file=http%3A%2F%2Fmvvideo1.meitudata.com%2F53e0c806311669100.mp4&logoText=Ta%E7%9A%84%E7%BE%8E%E6%8B%8D&appDownloadURL=http%3A%2F%2Fwww.meipai.com%2Fuser%2F34159120&shareEnabled=1&shareTitle=%E5%90%8E%E6%BB%A9%E5%85%AC%E5%9B%AD&qzoneShareURL=http%3A%2F%2Fsns.qzone.qq.com%2Fcgi-bin%2Fqzshare%2Fcgi_qzshare_onekey%3Furl%3Dhttp%3A%2F%2Fwww.meipai.com%2Fmedia%2F87240501%26site%3D%E7%BE%8E%E6%8B%8D&qqShareURL=http%3A%2F%2Fconnect.qq.com%2Fwidget%2Fshareqq%2Findex.html%3Furl%3Dhttp%3A%2F%2Fwww.meipai.com%2Fmedia%2F87240501%26site%3D%E7%BE%8E%E6%8B%8D&weiboShareURL=http%3A%2F%2Fservice.weibo.com%2Fshare%2Fshare.php%3Fappkey%3D680740738%26ralateUid%3D2312920530%26sourceUrl%3Dhttp%3A%2F%2Fwww.meipai.com%2F%26content%3Dutf8%26searchPic%3Dfalse%26url%3Dhttp%3A%2F%2Fwww.meipai.com%2Fmedia%2F87240501" width="400" height="400" quality="high" align="middle" allowScriptAccess="always" allowFullScreen="true" mode="transparent" type="application/x-shockwave-flash"></embed>
 
 <img src="http://www1.gypsii.com.cn/attachments/010/v428/79990428/864/1439352981864.jpg?t=2" width=400px>       
 略有遗憾的是临江的一大片区域已被隔开作为游艇码头，成为有钱人的专属领地。
