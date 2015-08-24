@@ -17,7 +17,7 @@ GTD Life: <http://www.gtdlife.com>
 左岸读书: <http://www.zreading.cn>    
 扫地老僧的Blog: <http://www.doyj.com>    
 酷啡生活: <http://cooffee.net>   
-火狐范: <http://www.firefoxfan.com>
+火狐范: <http://www.firefoxfan.com>      
 翁天信博客: <http://blog.dandyweng.com/>
 
 <!-- Blog Comments -->
