@@ -8,7 +8,6 @@ title: "NetCafe - Enjoy the world."
   </small>
 </h1>
 <!-- {% include recommend.html %} -->
-
 <!-- Loop output paged posts -->
 {% for post in paginator.posts %}
 <h2>
@@ -22,7 +21,7 @@ title: "NetCafe - Enjoy the world."
 </h2>
 <hr>
 {{ post.excerpt }}
-	<p> <a href="{{ post.url }}"><span >Read More &raquo; </span></a></p>
+	<p> <a href="{{ post.url }}"><span >More &raquo; </span></a></p>
 <hr>
 {% endfor %}
 
