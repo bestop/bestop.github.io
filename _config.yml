@@ -1,5 +1,5 @@
 markdown: kramdown
-permalink: /:categories/:title.html
+permalink: /:tags/:title.html
 url: 
 lsi: false
 pygments: true
@@ -12,7 +12,7 @@ paginate_path: "page:num"
 # presonal config
 title: NetCafe
 description: Joe's Blog...
-feed: http://blog.pop925.net/atom.xml
+feed: http://b.hijoe.net/atom.xml
 
 author: Steven Pan
 
