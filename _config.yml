@@ -13,9 +13,9 @@ paginate_path: "page:num"
 # presonal config
 title: NetCafe
 description: Joe's Blog...
-feed: http://b.hijoe.net/atom.xml
+feed: http://www.hijoe.net/atom.xml
 
-author: Steven Pan
+author: Joe
 
 seo: 
   keyword: 
