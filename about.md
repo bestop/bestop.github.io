@@ -2,10 +2,10 @@
 layout: default
 title: "关于：About"
 ---
-About
+#### About
 Happiness is not about being immortal nor having food or rights in one's hand. It's about having each tiny wish come true,or having something to eat when you are hungry or having someone's love when you need love.  
 
-吾日三省
+#### 吾日三省
 （1）付出不亚于任何人的努力：
 比任何人更多钻研，而且一心一意保持下去。如果有闲工夫抱怨不满，还不如努力前进、提高，即使只是一厘米。
 （2）戒骄戒躁：
