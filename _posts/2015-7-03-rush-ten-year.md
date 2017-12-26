@@ -8,7 +8,7 @@ summary: "匆匆十年"
 你的十几、二十几岁的时光是极简单却极具变化的时期之一。这段时光决定了你的事业、爱情、幸福甚至整个世界。
 临床心理学家Meg Jay在Ted上超过700万次点击量的演讲[《Why 30 is not the new 20》](http://v.youku.com/v_show/id_XNzkzODQwMjky.html)，告诉你该从最年轻的时候，开始积累你的“身份资本”。这样才能让你后续的人生实现「指数型成长」。    
 <BR>
-![](http://ww3.sinaimg.cn/mw690/4df62ff3gw1eu13n31d6yj20rs0ijaf6.jpg）  
+![](http://ww3.sinaimg.cn/mw690/4df62ff3gw1eu13n31d6yj20rs0ijaf6.jpg)     
         
 > 下面是别人的故事。
 > 
